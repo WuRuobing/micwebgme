@@ -1,0 +1,55 @@
+{
+  "components": {
+    "addons": {},
+    "decorators": {},
+    "layouts": {},
+    "plugins": {
+      "FSMCodeGenerator": {
+        "src": "src/plugins/FSMCodeGenerator",
+        "test": "test/plugins/FSMCodeGenerator"
+      },
+      "MiniProject2": {
+        "src": "src/plugins/MiniProject2",
+        "test": "test/plugins/MiniProject2"
+      },
+      "FSMGenerator": {
+        "src": "src/plugins/FSMGenerator",
+        "test": "test/plugins/FSMGenerator"
+      },
+      "MiniProject100": {
+        "src": "src/plugins/MiniProject100",
+        "test": "test/plugins/MiniProject100"
+      },
+      "Miniproject2": {
+        "src": "src/plugins/Miniproject2",
+        "test": "test/plugins/Miniproject2"
+      },
+      "miniproject2": {
+        "src": "src/plugins/miniproject2",
+        "test": "test/plugins/miniproject2"
+      },
+      "MiniProject": {
+        "src": "src/plugins/MiniProject",
+        "test": "test/plugins/MiniProject"
+      },
+      "miniproject3": {
+        "src": "src/plugins/miniproject3",
+        "test": "test/plugins/miniproject3"
+      },
+      "miniproject4": {
+        "src": "src/plugins/miniproject4",
+        "test": "test/plugins/miniproject4"
+      }
+    },
+    "seeds": {},
+    "visualizers": {}
+  },
+  "dependencies": {
+    "addons": {},
+    "decorators": {},
+    "layouts": {},
+    "plugins": {},
+    "seeds": {},
+    "visualizers": {}
+  }
+}
